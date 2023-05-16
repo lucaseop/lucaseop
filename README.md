@@ -10,7 +10,7 @@
   
 ![lucaseop GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaseop&show_icons=true&theme=transparent) 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseop&hide_progress=true&theme=transparent)](https://github.com/lucaseop/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseop&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que eu uso no meu dia
