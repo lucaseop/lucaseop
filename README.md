@@ -6,10 +6,10 @@
   <a href = "mailto:lucas.eop@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  
+![lucaseop GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaseop&show_icons=true&theme=transparent) 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseop&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![lucaseop GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaseop)](https://github.com/lucaseop/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaseop&repo=github-readme-stats)](https://github.com/lucaseop/github-readme-stats)
 
 
 
