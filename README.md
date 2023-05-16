@@ -8,9 +8,11 @@
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href="https://www.reddit.com" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
   
-![lucaseop GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaseop&show_icons=true&theme=transparent) 
+![lucaseop GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaseop&show_icons=true&theme=dracula) 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseop&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseop&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![snake gif](https://github.com/devalexandre/lucaseop/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Tecnologias que eu uso no meu dia
